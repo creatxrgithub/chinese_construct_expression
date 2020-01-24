@@ -1,0 +1,2 @@
+# chinese_construct_expression
+漢字形義正則法
