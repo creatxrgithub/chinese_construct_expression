@@ -6,9 +6,7 @@
 
 本着「追溯古人造字之謎﹐尋究漢學傳承之道」的理念﹐我研究了一下小篆﹐尋求字之所以構造的含義﹐探索漢字的有序化﹐及其計算機的輸入與生成。
 
-# 關鍵字：
-
-漢字﹐輸入法﹐教學﹐正則文法﹐自動化造字﹐可變字體 opentype variable font
+**關鍵字：漢字﹐輸入法﹐教學﹐正則文法﹐自動化造字﹐可變字體 opentype variable font**
 
 The Research Of Construct Chinese Character With Computer And Its Regular Expression
 
